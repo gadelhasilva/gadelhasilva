@@ -2,13 +2,13 @@
 
 ### Analista de Sistemas | DevOps | Entusiasta de Cloud ☁️
 
-Sou formado em Sistemas de Informação e atualmente curso uma pós-graduação em Desenvolvimento FullStack. Minha paixão é facilitar a vida das equipes fazendo a ponte entre as necessidades de negócio e a execução técnica. Tenho forte vivência no gerenciamento do ciclo de vida de aplicações, automação de esteiras de deploy e resolução de problemas complexos em produção.
+Sou formado em Sistemas de Informação. Minha paixão é facilitar a vida das equipes fazendo a ponte entre as necessidades de negócio e a execução técnica. Tenho forte vivência no gerenciamento do ciclo de vida de aplicações, automação de esteiras de deploy e resolução de problemas complexos em produção.
 
 ---
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando com: **Arquitetura Cloud (AWS/GCP), CI/CD e Sustentação de Sistemas**.
-- 🌱 Estudando no momento: **Desenvolvimento FullStack e práticas avançadas de FinOps e DevOps**.
+- 🌱 Estudando no momento: **Arquitetura de cloud e Práticas avançadas de FinOps e DevOps**.
 - 💡 O que eu faço: Traduzo requisitos técnicos, gerencio ambientes de desenvolvimento/homologação e meto a mão na massa em bancos de dados (Oracle/MySQL) para troubleshooting.
 - 🎯 Meu objetivo: Usar metodologias ágeis para garantir que a ponte entre infraestrutura e desenvolvimento flua com eficiência e segurança.
 
